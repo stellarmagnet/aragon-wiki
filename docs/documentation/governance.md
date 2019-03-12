@@ -6,6 +6,7 @@
 - Check out [**all currently open Aragon Governance Proposals**](https://github.com/aragon/AGPs/pulls)
 - Vote on [**open proposals during an Aragon Network Vote**](https://survey.aragon.org)
 - See results from [**past Aragon Network Votes**](https://github.com/aragon/AGPs/tree/master/votes)
+- Sign up for the [**Aragon Network Vote alerts mailing list**](https://one.us15.list-manage.com/subscribe?u=a590aa3843a54b079d48e6e18&id=9b7f365936).
 
 ## Important dates for the next Aragon Network Vote
 
